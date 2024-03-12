@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Blogs-Context-using-React/static/css/main.a6d1eb66.css",
+    "main.js": "/Blogs-Context-using-React/static/js/main.e63f0c39.js",
+    "index.html": "/Blogs-Context-using-React/index.html",
+    "main.a6d1eb66.css.map": "/Blogs-Context-using-React/static/css/main.a6d1eb66.css.map",
+    "main.e63f0c39.js.map": "/Blogs-Context-using-React/static/js/main.e63f0c39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6d1eb66.css",
+    "static/js/main.e63f0c39.js"
+  ]
+}
